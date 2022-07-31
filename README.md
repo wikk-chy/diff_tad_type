@@ -1,5 +1,5 @@
 # diff_tad_type
-![avatar](./tad_type.png)  
+![avatar](./tad_type_all.jpg)  
 Analysis the type of diff_tad which from HicExplorer tools HicDifferentialTAD  
 more infomation see the PPT file(diff_tad_type.pptx)  
 
