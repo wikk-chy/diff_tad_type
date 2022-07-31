@@ -21,7 +21,9 @@ tad_type_boundary.csv
 
 
 ## useage
+```python
 python diff_tad_type.py diff_tad_file test_tad_file control_tad_file out_dir percent  
+```
 
 ## more
-percent_conserve = percent_change = (0,1), defaults is 0.1
+percent = percent_conserve = percent_change = (0,1), defaults is 0.1
