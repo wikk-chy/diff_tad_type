@@ -19,6 +19,8 @@ test_to_control_separate.csv
 test_to_control_fusion.csv  
 tad_type_boundary.csv  
 
+## package
+bedtools: https://bedtools.readthedocs.io/en/latest/
 
 ## useage
 ```python
